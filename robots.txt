@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dannischros-star.github.io/monitor-mount-notes-2026/sitemap.xml
